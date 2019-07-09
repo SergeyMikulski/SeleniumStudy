@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="LiteCartAdminLeftMenuTest.cs" />
     <Compile Include="LiteCartLoginTest.cs" />
+    <Compile Include="LiteCartMainPageTests.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
