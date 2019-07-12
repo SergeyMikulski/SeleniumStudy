@@ -53,6 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CountriesZonesTests.cs" />
     <Compile Include="LiteCartAdminLeftMenuTest.cs" />
     <Compile Include="LiteCartLoginTest.cs" />
     <Compile Include="LiteCartMainPageTests.cs" />
