@@ -66,6 +66,7 @@
     <Compile Include="LiteCartAdminLeftMenuTest.cs" />
     <Compile Include="LiteCartLoginTest.cs" />
     <Compile Include="LiteCartMainPageTests.cs" />
+    <Compile Include="NewWindowsLinksTests.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UserRegistration.cs" />
