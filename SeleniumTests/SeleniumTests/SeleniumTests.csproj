@@ -60,6 +60,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AdminGoodsBrowserLogTests.cs" />
+    <Compile Include="CartPageObjectTests.cs" />
     <Compile Include="CartTests.cs" />
     <Compile Include="CountriesZonesTests.cs" />
     <Compile Include="GoodAddToAdmin.cs" />
@@ -68,6 +69,13 @@
     <Compile Include="LiteCartLoginTest.cs" />
     <Compile Include="LiteCartMainPageTests.cs" />
     <Compile Include="NewWindowsLinksTests.cs" />
+    <Compile Include="PageObjects\CartPageObject.cs" />
+    <Compile Include="PageObjects\CartWrapperPageBlock.cs" />
+    <Compile Include="PageObjects\GoodPageObject.cs" />
+    <Compile Include="PageObjects\LatestProductsPageBlock.cs" />
+    <Compile Include="PageObjects\PageBase.cs" />
+    <Compile Include="PageObjects\PageHeaderMenuPageBlock.cs" />
+    <Compile Include="PageObjects\TestsBase.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="UserRegistration.cs" />
